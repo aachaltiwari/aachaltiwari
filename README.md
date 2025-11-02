@@ -1,10 +1,10 @@
 <h2 align="center">
-  A Computer Engineering Student 💻
+  A Computer Engineering Graduate 💻
 </h2>
 
 <br>
  <h4 align="center">
-  - 🔭 I’m currently studying in: IOE Purwanchal Engineering Campus
+  - 🔭 I’m Computer Engineering Graduate from IOE Purwanchal Engineering Campus
 </h4>
 
 <h4 align="center">
